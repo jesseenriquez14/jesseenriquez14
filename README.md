@@ -6,7 +6,7 @@
   - [Hardening Lab](https://github.com/jesseenriquez14/Hardening-Lab)
   - [Vulnerability Scanning Lab]
 - <b>Cybersecurity And Buisness</b>
-  - [Business Continuity Plan Phase Three](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Business Continuity Plan Phase Three](https://github.com/jesseenriquez14/Business-Continuity-Plan-Phase-Three/blob/main/BCP%203%20(1).pdf)
   - [Risk Management Framework Guide]
   - [Information Security Management Model]
   - [Food Mood Business Continuity Plan]
