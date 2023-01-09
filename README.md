@@ -7,10 +7,9 @@
   - [Vulnerability Scanning Lab]
 - <b>Cybersecurity And Buisness</b>
   - [Business Continuity Plan Phase Three](https://github.com/jesseenriquez14/Business-Continuity-Plan-Phase-Three/blob/main/BCP%203%20(1).pdf)
-  - [Risk Management Framework Guide]
-  - [Information Security Management Model]
-  - [Food Mood Business Continuity Plan]
-  - [
+  - [Risk Management Framework Guide](https://github.com/jesseenriquez14/Risk-Management-Framework-Guide-/blob/main/Risk%20Management%20Framework%20Guide!.pdf)
+  - [Information Security Management Model](https://github.com/jesseenriquez14/Information-Security-Management-Model/blob/main/Information%20Security%20Management%20Model.pdf)
+  - [Food Mood Business Continuity Plan](https://github.com/jesseenriquez14/Food-Mood-Business-Continuity-Plan/blob/main/Business%20Continuity%20Plan.pdf)
 
 - <b>SOC/Analyst Related Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
