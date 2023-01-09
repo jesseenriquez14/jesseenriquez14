@@ -3,7 +3,7 @@
 
 - <b>Cybersecurity Basics</b>
   - [Hashing Lab](https://github.com/jesseenriquez14/Hashing-Lab/blob/main/README.md)
-  - [Hardening Lab]
+  - [Hardening Lab](https://github.com/jesseenriquez14/Hardening-Lab)
   - [Vulnerability Scanning Lab]
 - <b>Cybersecurity And Buisness</b>
   - [Business Continuity Plan Phase Three](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
