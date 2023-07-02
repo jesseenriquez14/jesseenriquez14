@@ -10,7 +10,7 @@
   - [Business Continuity Plan Phase Three](https://github.com/jesseenriquez14/Business-Continuity-Plan-Phase-Three/blob/main/BCP%203%20(1).pdf)
   - [Risk Management Framework Guide](https://github.com/jesseenriquez14/Risk-Management-Framework-Guide-/blob/main/Risk%20Management%20Framework%20Guide!.pdf)
   - [Information Security Management Model](https://github.com/jesseenriquez14/Information-Security-Management-Model/blob/main/Information%20Security%20Management%20Model.pdf)
-  - [Food Mood Business Continuity Plan](https://github.com/jesseenriquez14/Food-Mood-Business-Continuity-Plan/blob/main/Business%20Continuity%20Plan.pdf)
+  - [Food Mood Business Continuity Plan](https://github.com/jesseenriquez14/BCP-FULL/blob/main/CYB%20BCP%20(1).pdf)
   - [Phases Of Cyber Operation](https://github.com/jesseenriquez14/Phases-of-Cyber-Operation/blob/main/Phases%20of%20Cyber%20Operation%20g.pdf)
 
 - <b>📫 Notable Accounts</b>
