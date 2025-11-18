@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jesse! <a href="https://www.linkedin.com/in/jesseenriquez/">Cybersecurity Professional</a>
+<h1>Hi, I'm Jesse! <a href="https://www.linkedin.com/in/jesseenriquez/">Information Technology Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>🌱 Cybersecurity Home Labs</b>
